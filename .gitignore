@@ -129,5 +129,5 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-# secrest.js (API KEY)
-.src/secrest.js
+# secrets.js (API KEY)
+src/secrets.js
